@@ -36,7 +36,7 @@
 
 ![快捷站点面板](https://gitee.com/zhouqichao_dev/novel-writing-assistance-tools/raw/master/shizhan_2026-10-18_40.jpg)
 
-**▍作品详情**
+**▍合作联系**
 
 ![作品详情](https://gitee.com/zhouqichao_dev/novel-writing-assistance-tools/raw/master/微信图片_20260914161626_84_27.png)
 
