@@ -238,7 +238,7 @@
 
 **▍微信二维码（合作 / 订阅 / 定制）**
 
-![微信二维码](https://gitee.com/zhouqichao_dev/customization/raw/master/801ef21576f6157a92e7f087c157ca8c.jpg)
+<img width="636" height="631" alt="微信图片_20260914161626_84_27" src="https://github.com/user-attachments/assets/2c4b8380-90a8-4859-9704-7b500c982c68" />
 
 </div>
 
